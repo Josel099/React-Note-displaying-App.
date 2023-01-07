@@ -3,7 +3,7 @@ import React from "react";
 function Header() {
   return (
     <header>
-      <h1>Sample note's</h1>
+      <h1>Note displying webpage-"first project"</h1>
     </header>
   );
 }
