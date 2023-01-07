@@ -1,5 +1,5 @@
-#Note_displaying_webpage
+Note displaying webpage
 
-this is a sample not displaying webpage which is my first simple project on react.
+this is a sample not displaying webpage . It is my first  project on react.
 
-which is done at CODESANDBOX
+which is done at using  CODESANDBOX .
