@@ -1,5 +1,5 @@
-Note displaying webpage
 
-this is a sample not displaying webpage . It is my first  project on react.
-
-which is done at using  CODESANDBOX .
+# React-Note-displaying-App.
+This is a beginner project created using React. 
+The webpage allows the developer to display simple notes which can be shared with others.
+# Features 
